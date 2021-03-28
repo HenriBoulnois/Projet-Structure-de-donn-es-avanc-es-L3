@@ -1,0 +1,86 @@
+1er affichage
+0x8000003e0 : [le_premier_fils = 0x0, le_dernier_fils = 0x0, le_frere_precedent = 0x0, le_frere_suivante = 0x0, le_pere = 0x0] 1
+2eme affichage
+1
+   1.0
+   1.1
+   1.2
+   1.3
+3eme affichage
+1
+   1.0
+      1.0.0
+   1.1
+   1.2
+   1.3
+      1.3.0
+4eme affichage
+0
+1
+   1.0
+      1.0.0
+   1.1
+   1.2
+   1.3
+      1.3.0
+2
+3
+5eme affichage
+0
+1
+   1.0
+      1.0.0
+   1.1
+   1.2
+1.3
+   1.3.0
+2
+3
+6eme affichage
+0
+   1
+   1.0
+      1.0.0
+   1.1
+   1.2
+1.3
+   1.3.0
+2
+3
+7eme affichage
+1
+1.0
+   1.0.0
+1.1
+1.2
+1.3
+   1.3.0
+2
+3
+8eme affichage
+1.0
+   1.0.0
+1.1
+1.2
+1.3
+   1.3.0
+2
+3
+************** SAVE
+1.0
+   1.0.0
+1.1
+1.2
+1.3
+   1.3.0
+2
+3
+************** LOAD 
+1.0
+   1.0.0
+1.1
+1.2
+1.3
+   1.3.0
+2
+3
